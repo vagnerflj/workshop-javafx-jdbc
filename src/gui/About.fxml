@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE VBox>
  
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Label?>
@@ -7,7 +6,7 @@
 <?import javafx.scene.text.Font?>
 
 
-<VBox prefHeight="322.0" prefWidth="430.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/21">
+<VBox prefHeight="322.0" prefWidth="430.0" xmlns:fx="http://javafx.com/fxml/10.0.1" xmlns="http://javafx.com/javafx/21">
    <children>
       <Label prefHeight="169.0" prefWidth="363.0" text="About">
          <font>
